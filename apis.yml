@@ -34,7 +34,7 @@ x-tier-reason: portfolio-lead
 # Japanese consumer space-rental marketplace with NO public API/developer surface.
 # The x-backed-by 500-global tag is likely a name collision with the US retail-tech
 # Spacee (spacee.com); that association is unverified and left untouched pending review.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
