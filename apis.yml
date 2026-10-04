@@ -50,7 +50,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - Co-Working
 - Space Rental
 - Marketplace
@@ -66,6 +66,7 @@ tags_raw:
 - Booking
 - Workspace
 - Japan
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
